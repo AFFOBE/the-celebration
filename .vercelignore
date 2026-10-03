@@ -1,0 +1,9 @@
+.git
+.gitignore
+node_modules
+.vercel
+*.log
+Thumbs.db
+Desktop.ini
+deploy.ps1
+README.md
